@@ -13,8 +13,8 @@ Of the 50 states (although they are described as cities in the data), the two cl
 
 ○ **Contents**
 
-UsArrests.csv
-T51CapstonePVII.ipynb
+UsArrests.csv<br>
+T51CapstonePVII.ipynb<br>
 README.MD
 
 ○ **Installation**
