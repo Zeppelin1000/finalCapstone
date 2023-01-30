@@ -1,8 +1,7 @@
 
 ## ○ Final Capstone - T51
 
-This project analyses and compares two clustering techniques on the dataset in the file UsArrests.csv.  The data describes statistics, in arrests per 100,000 residents,
-for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.
+This project required me to write an application that carried out the analysis and comparison of two clustering techniques on the dataset in the file UsArrests.csv.  The data describes statistics, in arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.
 
 The program carries out a PCA analysis and then a final comparative analysis on two different clustering techniques used (K-means and Hierarchical).
 
